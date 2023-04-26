@@ -1,7 +1,6 @@
-Professor - Mr. Upendra Singh
-
-
-Submitted By - 
-Maharshi Parth Gaud
-Manisha Ahuja 
-Dipansha Bordiya
+## Guided by -
+Mr. Upendra Singh
+## Contributed by - 
+Dipansha Bordiya  
+Maharshi Parth Gaud  
+Manisha Ahuja
